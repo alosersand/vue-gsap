@@ -1,0 +1,21 @@
+{
+  "name": "vue-gsap",
+  "version": "0.1.0",
+  "description": "> A Vue.js project",
+  "main": "main.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lazyBit99/vue-gsap.git"
+  },
+  "author": "Alessandro Marchi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lazyBit99/vue-gsap/issues"
+  },
+  "homepage": "https://github.com/lazyBit99/vue-gsap#readme"
+}
